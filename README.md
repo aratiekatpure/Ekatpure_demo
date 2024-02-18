@@ -1,2 +1,3 @@
 # Ekatpure_demo
-this is my first repository
+This is my first repository
+Arati Ekatpure
